@@ -1,6 +1,10 @@
 ## Overview
 Habitat Hub is a team of four engineers developing websites and applications, and sharing IT-related articles on platforms.
 
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/165167398?s=400&u=056fb4f733cfeeb5afe141f4a44455fc68c140ce&v=4" alt="Habitat Hub Avatar" />
+</div>
+
 ## Core Technologies
 TypeScript · React · Next.js · Node.js · Express · React Native · Docker · HTML · CSS · JavaScript
 
